@@ -1,22 +1,41 @@
-# LegalSuite-Pro-Advanced-Court-Management-System
-LegalSuite Pro is a sophisticated court management platform tailored for law firms looking to modernize their operations. Developed with Next.js, Tailwind CSS, and Firebase, this system offers a suite of tools designed to streamline case management, client tracking, and hearing scheduling. Its responsive design ensures optimal functionality.
+# مكتب محمد منطاوي المحامي - نظام إدارة القضايا المتقدم
 
-## 🚀 Features
-- **Dynamic User Interface:** Crafted with Next.js and React.js to provide a highly interactive user experience.
-- **Mobile-Ready Design:** Fully responsive layouts built with Tailwind CSS to ensure that the application looks great on tablets, phones, and desktops.
-- **Scalable Data Handling:** Utilizes Firebase for robust backend services, including real-time database operations and secure authentication.
-- **Enhanced Security:** Implements Firebase Authentication to safeguard user data and ensure secure access.
+نظام **مكتب محمد منطاوي المحامي** هو منصة متقدمة لإدارة القضايا مصممة خصيصًا لمكاتب المحاماة التي تسعى لتحديث عملياتها القانونية.  
+تم تطوير النظام باستخدام Next.js، Tailwind CSS، وFirebase لتقديم أدوات قوية تسهّل إدارة القضايا، متابعة العملاء، وجدولة الجلسات.  
+كما يتميز النظام بتصميم متجاوب يعمل بكفاءة على جميع الأجهزة.
 
-## 🛠 Tech Stack
-- **Frontend:** Next.js for server-side rendering, React.js for UI, Tailwind CSS for styling
-- **Backend:** Firebase, including Firestore for database management and Firebase Authentication for user security
+---
 
-## 📖 Usage
-**1. Case Management:** Efficiently create, update, and manage legal cases with comprehensive details.
+## 🚀 **المميزات**
+- **واجهة تفاعلية ديناميكية:** بُنيت باستخدام Next.js وReact.js لتقديم تجربة استخدام سلسة.
+- **متجاوب مع الجوال:** تصميم متكامل باستخدام Tailwind CSS ليعمل بكفاءة على الأجهزة اللوحية، الجوالات، وأجهزة الكمبيوتر.
+- **إدارة بيانات قوية:** باستخدام Firebase لتخزين البيانات في الوقت الحقيقي مع مصادقة آمنة.
+- **أمان عالي:** تأمين وصول المستخدمين عبر Firebase Authentication لضمان الخصوصية.
 
-**2. Client Tracking:** Maintain a detailed record of client interactions, history, and associated legal matters.
+---
 
-**3. Hearing Scheduling:** Organize court dates and hearing schedules within an integrated calendar system.
+## 🛠 **التقنيات المستخدمة**
+- **الواجهة الأمامية:** Next.js (SSR) + React.js + Tailwind CSS
+- **الواجهة الخلفية:** Firebase Firestore + Firebase Authentication
 
-## Links
-- **Live Application:**: [Legal Buddy App](https://legal-buddy-app.vercel.app/)
+---
+
+## 📖 **الاستخدام**
+✅ **إدارة القضايا:** إنشاء، تعديل، وإدارة جميع تفاصيل القضايا بسهولة.  
+✅ **متابعة العملاء:** الاحتفاظ بسجلات كاملة لتاريخ العملاء والتواصل معهم.  
+✅ **جدولة الجلسات:** تنظيم جلسات المحاكم والمواعيد في تقويم متكامل.
+
+---
+
+## 🔷 **طريقة تسجيل الدخول**
+- عند فتح الموقع تظهر صفحة رئيسية تحتوي على زر واحد فقط.
+- بالضغط على الزر، يتم توجيه المستخدم إلى صفحة تسجيل الدخول الخاصة بالنظام.
+- لا يوجد روابط مباشرة هنا في الوثيقة.
+
+---
+
+## 👨‍💻 **تطوير: لايم جليتش**
+
+---
+
+📌 *للمزيد من المعلومات أو الدعم الفني، يرجى التواصل مع فريق التطوير.*
